@@ -1,0 +1,10 @@
+#root {  
+  width: 100vw;
+}
+
+.chat {
+  padding: 2vh 2vw;
+  display: flex;
+  flex-direction: column;
+  gap: 2vh;
+}
