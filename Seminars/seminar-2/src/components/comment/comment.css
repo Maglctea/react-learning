@@ -1,0 +1,44 @@
+.comment_block {
+    width: 40vw;
+}
+
+.comment_header {
+    display: flex;
+    justify-content: space-between;
+    gap: 4vw;
+
+    padding: 20px 35px;
+    text-align: left;
+}
+
+.comment_header_info {
+    display: flex;
+    justify-content: space-between;
+    gap: 4vw;
+    align-items: center;
+}
+
+.comment_text {
+    padding: 20px 35px;
+    background-color: rgb(88, 115, 145);
+    text-align: left;
+    
+}
+
+.comment_green {
+    background-color: rgb(109, 174, 106);
+    border: rgb(109, 174, 106) solid 2px;
+}
+
+.comment_blue {
+    background-color: rgb(127, 189, 255);
+    border: rgb(127, 189, 255) solid 2px;
+}
+
+.cls-1{
+    fill:#c73c27;
+}
+
+.cls-2{
+    fill:#613028;
+}
