@@ -1,0 +1,6 @@
+.commentList {    
+    display: flex;
+    gap: 2vh;
+    flex-direction: column;
+    list-style-type:  none;
+  }

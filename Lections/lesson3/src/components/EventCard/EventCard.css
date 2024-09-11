@@ -1,0 +1,13 @@
+.eventCard {
+  border: #61dafbaa solid 2px;
+}
+
+.eventName {
+    background-color: #a2ebffaa;
+    padding: 10px 20px;
+}
+
+.eventTime {
+    background-color: #4e595caa;
+    padding: 10px 20px;
+}

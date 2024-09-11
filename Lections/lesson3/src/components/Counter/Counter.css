@@ -1,0 +1,9 @@
+.counter_block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 20px;
+    margin: auto;
+    gap: 2vw;
+    max-width: 20vw;
+}
